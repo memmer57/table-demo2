@@ -1,0 +1,45 @@
+Geologické éry
+Miliony let
+4000-4600
+2500-4000
+541-2500
+485-541
+443-485
+419-443
+359-419
+299-359
+252-299
+201-252
+145-201
+66-145
+23-66
+3-23
+0-3
+
+Název
+Hadaikum
+Archaikum
+Proterozoikum
+Paleozoikum
+Mezozoikum
+Kenozoikum
+Kambrium
+Ordovik
+Silur
+Devon
+Karbon
+Perm
+Trias
+Jura
+Křída
+Paleogén
+Neogén
+Kvartér
+
+Existující skupiny živočichů
+Ptáci
+Aves
+Dinosauři
+Dinosauria
+Savci
+Mammalia

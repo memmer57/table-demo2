@@ -1,0 +1,82 @@
+/* 
+-- Tabulka --
+mezery mezi buňkami
+okraj kolem tabulky: 3px černý
+-- Datové i hlavičkové buňky --
+okraj kolem: silver 1px 
+vnitřní vycpávka 5px
+zarovnání textu na střed
+-- Každý blok těla --
+čára nahoře: černá 3px
+-- Popisek --
+8pt, vnější vycpávka 10px
+*/
+
+caption {
+    font-size: 8pt;
+    margin: 10px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
+th, td {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid silver;
+}
+
+.heading {
+    background-color: #ccc;
+}
+
+.border-top {
+    border-top: 3px solid black;
+}
+
+.border-right {
+    border-right: 3px solid black;
+}
+
+.hadaikum {
+    background-color: #AE027E;
+}
+
+.archaikum {
+    background-color: #F0047F;
+}
+
+.proterozoikum {
+    background-color: #F73563;
+}
+
+.paleozoikum {
+    background-color: #7FA056;
+}
+
+.mezozoikum {
+    background-color: #67C5CA;
+}
+
+.kenozoikum {
+    background-color: #F2F91D;
+}
+
+.aves {
+    background-color: red;
+    color: white;
+}
+
+.dinosauria {
+    background-color: green;
+    color: white;
+}
+
+.mammalia {
+    background-color: blue;
+    color: white;
+}
